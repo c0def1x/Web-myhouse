@@ -1,0 +1,124 @@
+body
+{
+	background-image: url(fon9.jpg);
+}
+
+h1 
+{
+	text-align: center;
+	color: #0000FF;
+	font-family: Verdana;
+	font-size: 20pt;
+}
+
+h1.main, h1.golub, h1.krasn, h1.zelen, h1.oranzhev
+{
+	font-family: Verdana;
+	text-align: left;
+	font-size: 14pt;
+}
+
+h1.main
+{
+	color: navy;
+}
+
+h1.golub
+{
+	color: blue;
+}
+
+h1.krasn
+{
+	color: red;
+}
+
+h1.zelen
+{
+	color: green;
+}
+
+h1.oranzhev
+{
+	color: orange;
+}
+
+h2
+{
+	text-align: right;
+	color: #800000;
+	font-family: Verdana;
+	font-size: 16pt;
+}
+
+h3
+{
+	text-align: left;
+	color: #0000FF;
+	font-family: Verdana;
+	font-size: 12pt;
+}
+
+p
+{
+	text-align: justify;
+	color: #191970;
+	font-family: Arial;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+p.firstTextStyle
+{
+	text-align: center;
+	color: navy;
+	font-family: Verdana;
+	font-size: 16pt;
+}
+
+p.secondTextStyle
+{
+	text-align: left;
+	color: blue;
+	font-family: Verdana;
+	font-size: 16pt;
+}
+
+p.thirdTextStyle
+{
+	text-align: right;
+	color: red;
+	font-family: Verdana;
+	font-size: 16pt;
+}
+
+p.fouthTextStyle
+{
+	text-align: left;
+	color: green;
+	font-family: Verdana;
+	font-size: 16pt;
+}
+
+p.fifthTextStyle
+{
+	text-align: center;
+	color: orange;
+	font-family: Verdana;
+	font-size: 16pt;
+}
+
+body
+{
+	background-color: #99CCFF;
+}
+
+ol
+{
+	list-style-type: upper-roman;
+}
+
+ul
+{
+	list-style-image: url(spisok_1.gif);
+}
